@@ -1,0 +1,47 @@
+parsed genome node DAGs: 2
+sequence regions: 1 (total length: 11564)
+multi-features: 1
+genes: 1
+protein-coding genes: 1
+mRNAs: 1
+protein-coding mRNAs: 1
+exons: 16
+CDSs: 16
+introns: 15
+gene length distribution:
+11564: 1 (prob=1.0000,cumulative=1.0000)
+exon length distribution:
+42: 1 (prob=0.0625,cumulative=0.0625)
+48: 1 (prob=0.0625,cumulative=0.1250)
+60: 1 (prob=0.0625,cumulative=0.1875)
+94: 1 (prob=0.0625,cumulative=0.2500)
+102: 1 (prob=0.0625,cumulative=0.3125)
+103: 1 (prob=0.0625,cumulative=0.3750)
+104: 1 (prob=0.0625,cumulative=0.4375)
+118: 1 (prob=0.0625,cumulative=0.5000)
+128: 1 (prob=0.0625,cumulative=0.5625)
+149: 1 (prob=0.0625,cumulative=0.6250)
+191: 1 (prob=0.0625,cumulative=0.6875)
+257: 1 (prob=0.0625,cumulative=0.7500)
+334: 1 (prob=0.0625,cumulative=0.8125)
+404: 1 (prob=0.0625,cumulative=0.8750)
+426: 1 (prob=0.0625,cumulative=0.9375)
+497: 1 (prob=0.0625,cumulative=1.0000)
+intron length distribution:
+79: 1 (prob=0.0667,cumulative=0.0667)
+104: 1 (prob=0.0667,cumulative=0.1333)
+107: 1 (prob=0.0667,cumulative=0.2000)
+111: 1 (prob=0.0667,cumulative=0.2667)
+185: 1 (prob=0.0667,cumulative=0.3333)
+215: 1 (prob=0.0667,cumulative=0.4000)
+233: 1 (prob=0.0667,cumulative=0.4667)
+312: 1 (prob=0.0667,cumulative=0.5333)
+323: 1 (prob=0.0667,cumulative=0.6000)
+413: 1 (prob=0.0667,cumulative=0.6667)
+522: 1 (prob=0.0667,cumulative=0.7333)
+572: 1 (prob=0.0667,cumulative=0.8000)
+792: 1 (prob=0.0667,cumulative=0.8667)
+925: 1 (prob=0.0667,cumulative=0.9333)
+3614: 1 (prob=0.0667,cumulative=1.0000)
+CDS length distribution:
+3003: 1 (prob=1.0000,cumulative=1.0000)
